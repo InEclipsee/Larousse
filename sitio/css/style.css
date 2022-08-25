@@ -1,0 +1,60 @@
+/*Ajuste en palabras reservadas */
+h1 {
+    color:crimson;
+    text-align: center;
+}
+
+p{
+    font-family: sans-serif;
+}
+
+div
+{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    font-family: Helvetica;
+    font-size: 48px;
+    text-align: center;
+    color: beige;
+    box-sizing: border-box;
+    padding-top: 71px;
+    margin-bottom: 10px;
+    margin-left: 43%;
+}
+/*Unico*/
+#uno,#dos {
+    color: blueviolet;
+}
+#tres
+{
+    color: brown;
+}
+#caja1
+{
+    background-color: aquamarine;
+    color: black;
+}
+#caja2
+{
+    background-color: yellow;
+    color: black;
+}
+#caja3
+{
+    background-color: red;
+}
+#caja4
+{
+    background-color: gray;
+}
+/*Clases*/
+.destacado 
+{
+    background-color: aquamarine;
+}
+
+.negrita
+{
+    font-weight: bold;
+}
